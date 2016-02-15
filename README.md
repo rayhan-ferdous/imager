@@ -14,4 +14,4 @@ To run the script write:
 
 Now, follow the instructions from the program.
 
-####N.B. To reformat and encorrect the partition of your USB, using gparted is recommended.
+####N.B. To reformat and encorrect the partition of your USB device, using gparted is recommended.
