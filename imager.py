@@ -40,7 +40,7 @@ def make():
 clear()
 logo()
 
-print "copy your .iso image into the home directory and rename it to 'os.iso'. then mount the USB device..."
+print "copy your .iso image & imager.py both into the home directory if not already and run again. rename the disk image to 'os.iso'. then mount the USB device..."
 print "press enter when done... [ENTER]"
 
 wait_for_enter()
