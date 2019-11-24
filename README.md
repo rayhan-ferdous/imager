@@ -3,6 +3,8 @@ Bootable USB device imager for Ubuntu
 ============================================
 
 Download the imager.py file.
+Copy imager.py and .iso file into the home directory.
+Rename  the .iso file into 'os.iso'.
 To make it executable write the command in terminal:
 
 ####cd /your/script/path
